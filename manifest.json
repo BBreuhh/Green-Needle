@@ -1,0 +1,12 @@
+{
+	"id": "Green Needle",
+	"name": "Green Needle",
+	"display_name": "Green Needle",
+	"author": ["Breuhh"],
+	"description": "Makes Green Needle's name swap between Brainstorm and Brainstorm",
+	"prefix": "grndl",
+	"main_file": "GreenNeedle.lua",
+	"priority": 0,
+	"badge_colour": "69c782",
+	"version": "1.0"
+}
